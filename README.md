@@ -51,3 +51,5 @@ stabilise, these metrics can serve as a foundation to measure improvement in fin
 <img src="DASHBOARD SAA.png">
 </p>
 
+## Cleaning and Preparation
+As already mentioned above, the initial dataset for this project was extracted from a PDF file containing the SAA's Income Statement for 2021 and 2022 [SAA Dataset] (github.com/Xola-lab/)
