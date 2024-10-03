@@ -18,6 +18,11 @@ This project focuses on analysing the financial performance of the South African
 **Conclusion**: This analysis highlights the financial struggles faced by the SAA Group, including a sharp drop in total income and significant operating losses in both years.
 While there was some reduction in losses by 2022, the company still faced major financial challenges.
 
+#### Skills Demonstrated:
+- **Data Cleaning and Preparation**: I structured the raw financial data into readable insights, using tools like Excel **pivot tables** and **charts** for dynamic analysis.
+- **Descriptive Analysis**: I calculated key financial metrics, i.e. Net Income, to better prepare the data.
+- **Visualisation (Dashboard)**: I created an interactive dashboard that visualises trends in the data over the two years.
+
 <p align="center">
 <img src="DASHBOARD SAA.png">
 </p>
