@@ -7,6 +7,13 @@ The purpose of this project was to assess the airline's financial health by anal
 
 This project demonstrates the ability to clean, prepare, and analyse raw financial data, uncovering insights that are crucial for decision-making.
 
+## Data Structure
+The data struture for SAA's financial income statement was only a single table, containing the key sections of a financial statement:
+
+<p align="center">
+<img src="Data Structure.png">
+</p>
+
 ## Executive Summary
 #### Objective:
 This project focuses on analysing the financial performance of the South African Airways (SAA) Group over the financial years 2021 and 2022, highlighting income, operating costs, and net income trends. The analysis aims to provide insight into the airline's financial recovery and ongoing challenges.
