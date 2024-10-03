@@ -23,6 +23,16 @@ While there was some reduction in losses by 2022, the company still faced major 
 - **Descriptive Analysis**: I calculated key financial metrics, i.e. Net Income, to better prepare the data.
 - **Visualisation (Dashboard)**: I created an interactive dashboard that visualises trends in the data over the two years.
 
+#### Impact:
+1. **Informed Decision-Making**: By analysing SAA's total income, oparating costs, and net income, this project could help stakeholders understand the airline's financial
+trajectory. The findings can assist in making more informed decisions around cost-cutting, revenue generation, and operational strategies.
+2. ** Identification of Financial Risks**: The significant decline in total income and the consistent overspending on operating costs have been clearly identified. These
+financial risks highlight the need for more aggressive cost management and revenue diversification to prevent further losses.
+3. **Operation Efficiency Focus**: SAA's operational efficiency worsened in 2022, indicating a growing gap between income and costs. The airline will need to pinpoint
+areas within the operational framework that require better cost controls.
+4. **Recovery Strategies**: The year-on-year comparison provides a benchmark for tracking the success of recovery strategies implemented by the airline. As SAA seeks to
+stabilise, these metrics can serve as a foundation to measure improvement in financial health.
+
 <p align="center">
 <img src="DASHBOARD SAA.png">
 </p>
