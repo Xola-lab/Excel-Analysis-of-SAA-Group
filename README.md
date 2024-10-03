@@ -52,7 +52,7 @@ stabilise, these metrics can serve as a foundation to measure improvement in fin
 </p>
 
 ## Cleaning and Preparation
-As already mentioned above, the initial dataset for this project was extracted from a PDF file containing the SAA's Income Statement for 2021 and 2022 [download or view here] (https://github.com/Xola-lab/Excel-Analysis-of-SAA-Group/blob/main/2022-south-african-airways-(saa)-annual-report.pdf). I took the following steps to clean and prepare the data for analysis:
+As already mentioned above, the initial dataset for this project was extracted from a PDF file containing the SAA's Income Statement for 2021 and 2022 [download or view here](https://github.com/Xola-lab/Excel-Analysis-of-SAA-Group/blob/main/2022-south-african-airways-(saa)-annual-report.pdf). I took the following steps to clean and prepare the data for analysis:
 
 1. **PDF to Excel Conversion**: The Income Statement was converted from the original PDF format to an Excel shett to facilitate further analysis. This ensured that the data was in a usable format, ready for manipulation and calculations.
 2. **Data Formatting**: After extraction, the data required reformatting to ensure consistency:
