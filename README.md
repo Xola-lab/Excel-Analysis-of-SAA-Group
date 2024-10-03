@@ -35,7 +35,7 @@ While there was some reduction in losses by 2022, the company still faced major 
 #### Skills Demonstrated:
 - **Data Cleaning and Preparation**: I structured the raw financial data into readable insights, using tools like Excel **pivot tables** and **charts** for dynamic analysis.
 - **Descriptive Analysis**: I calculated key financial metrics, i.e. Net Income, to better prepare the data.
-- **Visualisation (Dashboard)**: I created an interactive dashboard that visualises trends in the data over the two years.
+- **Visualisation (Dashboard)**: I created an interactive dashboard that visualises trends in the data over the two years [view here](https://github.com/Xola-lab/Excel-Analysis-of-SAA-Group/blob/main/SAA%20Income%20Data%20(2021%20-%202022).xlsx)
 
 #### Impact:
 1. **Informed Decision-Making**: By analysing SAA's total income, oparating costs, and net income, this project could help stakeholders understand the airline's financial
