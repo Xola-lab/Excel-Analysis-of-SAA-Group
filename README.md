@@ -65,3 +65,36 @@ As already mentioned above, the initial dataset for this project was extracted f
 <p><img src="Income Reshaped.png"></p>
 
 This thorough cleaning and preparation ensured that the data was accurate, consistent, and ready for insightful analysis, enabling a clearer understanding of SAA's financial performance over the two-year period.
+
+## Insights: Deep Dive
+The analysis of the SAA Group's Income Statement for 2021 and 2022 revealed several key insighst into the company's financial performance during these two critical years. Here a deep dive into the findings:
+
+1. **Decline in Total Revenue**:
+   - **2021**: The total income was R5.44 billion, boosted by airline revenue and other income streams.
+   - **2022**: There was a significant drop in total income to R2.01 billion. Airline revenue decreased to R1.59, while other income sources fell drastically to R418 million. This suggests a weakened business environment for the airline, possibly due to reduced operational activity or external economic factors.
+**Insight** The sharp decline in income signals an urgent need for SAA to diversify its revenue streams and increase operational activity to offset these losses.
+2. **High Operating Costs**:
+   - **2021**: Operating costs were substantial at R11.83 billion, with notable expenses such as aircraft lease costs (R1.51 billion) and maintenance services.
+   - **2022**: While operating costs reduced to R5.19 billion, they were still more than double the total income. Key expenses remained high, despite the reduced operational scale.
+**Insight**: ALthough SAA managed to cut operating costs by more than half in 2022, these costs remain disproportionate to the group's income. There is a clear need for further optimisation of cost structures, particularly in non-revenue-generating expenses.
+3. **Net Losses and Financial Strain**:
+   - In 2021, SAA recorded a significant net loss of R6.39 billion, driven by the wide gap between income and expenses.
+   - In 2022, the net loss narrowed to R3.17 billion, but this is still a significant deficit that highlights ongoing financial stability.
+**Insight**: The reduction in net loss from 2021 to 2022 shows signs of financial recovery, but the overall losses indicate that SAA'a cost management and revenue generation need significant restructuring. Monitoring cost-saving measures will be essential for future sustainability.
+4. **Operating Efficiency**:
+   - **2021**: Operating costs were more than double the income.
+   - **2022**: Operating costs doubled, indicating that, despite a reduction in total expenses, costs remained too high relative to income.
+**Insight**: The worsening operating efficiency highlights an imbalance between revenue generation and operational expenditure. The focus should be on both increasing revenue through strategic initiatives and further reducing unnecessary costs.
+5. **Other Income**:
+   - In 2021, other income streams (R3.06 billion) played a crucial role in propping up the total income. By 2022, these sources of income had nearly vanished, with only R418 million recorded.
+**Insight**: The heavy reliance on non-operational income sources is unsustainable in the long term. SAA needs to strenghten its core business model and rely more on operational revenue to ensure stability.
+
+This deep dive reveals that while SAA made a progress in reducing costs from 2021 to 2022, the overall financial picture remains concerning. To return to profitability, the airline must address its high operating costs, diversify its income sources, and improve operational efficiency. These insights provide a clear direction for SAA's financial recovery and strategic planning moving forward.
+
+## Recommendations
+1. **Cost Optimisation**: Further streamline operating expenses, especially in aircraft leasing and maintenance, to align with the reduced revenue stream.
+2. **Revenue Diversification**: Explore new income opportunities beyond traditional airline operations.
+3. **Operational Efficiency**: Implement technology-driven solutions to enhance efficiency in operations, reducing waste and improving cost controls.
+4. **Strenghten Revenue**: Focus on strategies to boost airline revenue, such as increased flight activity and targeted marketing to regain market share.
+
+
