@@ -26,7 +26,7 @@ While there was some reduction in losses by 2022, the company still faced major 
 #### Impact:
 1. **Informed Decision-Making**: By analysing SAA's total income, oparating costs, and net income, this project could help stakeholders understand the airline's financial
 trajectory. The findings can assist in making more informed decisions around cost-cutting, revenue generation, and operational strategies.
-2. ** Identification of Financial Risks**: The significant decline in total income and the consistent overspending on operating costs have been clearly identified. These
+2. **Identification of Financial Risks**: The significant decline in total income and the consistent overspending on operating costs have been clearly identified. These
 financial risks highlight the need for more aggressive cost management and revenue diversification to prevent further losses.
 3. **Operation Efficiency Focus**: SAA's operational efficiency worsened in 2022, indicating a growing gap between income and costs. The airline will need to pinpoint
 areas within the operational framework that require better cost controls.
