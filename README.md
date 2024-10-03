@@ -18,4 +18,7 @@ This project focuses on analysing the financial performance of the South African
 **Conclusion**: This analysis highlights the financial struggles faced by the SAA Group, including a sharp drop in total income and significant operating losses in both years.
 While there was some reduction in losses by 2022, the company still faced major financial challenges.
 
+<p align="center">
+<img src="DASHBOARD SAA.png">
+</p>
 
