@@ -52,4 +52,14 @@ stabilise, these metrics can serve as a foundation to measure improvement in fin
 </p>
 
 ## Cleaning and Preparation
-As already mentioned above, the initial dataset for this project was extracted from a PDF file containing the SAA's Income Statement for 2021 and 2022 [SAA Dataset] (github.com/Xola-lab/)
+As already mentioned above, the initial dataset for this project was extracted from a PDF file containing the SAA's Income Statement for 2021 and 2022 [download or view here] (https://github.com/Xola-lab/Excel-Analysis-of-SAA-Group/blob/main/2022-south-african-airways-(saa)-annual-report.pdf). I took the following steps to clean and prepare the data for analysis:
+
+1. **PDF to Excel Conversion**: The Income Statement was converted from the original PDF format to an Excel shett to facilitate further analysis. This ensured that the data was in a usable format, ready for manipulation and calculations.
+2. **Data Formatting**: After extraction, the data required reformatting to ensure consistency:
+   - Column headers were renamed for clarity (e.g., "Group 2021 (Rm)" and "Group 2022 (Rm)") to specify amounts in million Rands.
+   - Then, using Power Query, I then used "Unpivot Colums" to create a new "Group Year" column.
+   - Another column, "Group Category" was created to group the categories in the statement accordingly.
+3. **Data Structuring**: Using a new column, the data was categorised by key financial metrics, including _Total Income_, _Operating Costs_, and other specific categories. This reshaping the data for easier comparison between the years.
+4. **Error Checking**: The dataset went through review for any inconsistencies to ensure that all figured aligned with the original PDF data.
+
+<p><img src=""></p>
