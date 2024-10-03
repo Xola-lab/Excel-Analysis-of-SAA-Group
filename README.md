@@ -63,3 +63,5 @@ As already mentioned above, the initial dataset for this project was extracted f
 4. **Error Checking**: The dataset went through review for any inconsistencies to ensure that all figured aligned with the original PDF data.
 
 <p><img src="Income Reshaped.png"></p>
+
+This thorough cleaning and preparation ensured that the data was accurate, consistent, and ready for insightful analysis, enabling a clearer understanding of SAA's financial performance over the two-year period.
