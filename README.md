@@ -59,7 +59,7 @@ As already mentioned above, the initial dataset for this project was extracted f
    - Column headers were renamed for clarity (e.g., "Group 2021 (Rm)" and "Group 2022 (Rm)") to specify amounts in million Rands.
    - Then, using Power Query, I then used "Unpivot Colums" to create a new "Group Year" column.
    - Another column, "Group Category" was created to group the categories in the statement accordingly.
-3. **Data Structuring**: Using a new column, the data was categorised by key financial metrics, including _Total Income_, _Operating Costs_, and other specific categories. This reshaping the data for easier comparison between the years.
+3. **Data Structuring**: Using the newly created column, the data was categorised by key financial metrics, including _Total Income_, _Operating Costs_, and other specific categories. This reshaping the data for easier comparison between the years.
 4. **Error Checking**: The dataset went through review for any inconsistencies to ensure that all figured aligned with the original PDF data.
 
-<p><img src=""></p>
+<p><img src="Income Reshaped.png"></p>
