@@ -94,7 +94,7 @@ This deep dive reveals that while SAA made a progress in reducing costs from 202
 ## Recommendations
 1. **Cost Optimisation**: Further streamline operating expenses, especially in aircraft leasing and maintenance, to align with the reduced revenue stream.
 2. **Revenue Diversification**: Explore new income opportunities beyond traditional airline operations.
-3. **Operational Efficiency**: Implement technology-driven solutions to enhance efficiency in operations, reducing waste and improving cost controls.
+3. **Operational Efficiency**: Implement technology-driven solutions to enhance efficiency in operations and improving cost controls.
 4. **Strenghten Revenue**: Focus on strategies to boost airline revenue, such as increased flight activity and targeted marketing to regain market share.
 
 
