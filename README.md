@@ -5,7 +5,7 @@ This project focuses on analysing the financial performance of the South African
 
 The purpose of this project was to assess the airline's financial health by analysing key metrics such as total income, operating costs, and net income/loss, providing insights into the overall operational performance and areas for improvement.
 
-This project demonstrates the ability to clean, prepare, and analyse raw financial data, uncovering insights that are crucial for decision-making.
+This project demonstrates my ability to clean, prepare, and analyse raw financial data, uncovering insights that are crucial for decision-making.
 
 ## Data Structure
 The data struture for SAA's financial income statement was only a single table, containing the key sections of a financial statement:
