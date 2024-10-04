@@ -1,4 +1,4 @@
-# Excel Analysis: South African Airways (Group) Income Data (2021 - 2022)
+# Excel Analysis: South African Airways (SAA) Group Income Data (2021 - 2022)
 
 ## Background and Overview
 This project focuses on analysing the financial performance of the South African AIrways (SAA) Group for the years 2021 and 2022. The data for this analysis was sourced directly from SAA's website in the form of a PDF document. The PDF contained detailed financial reports, from which I sourced the Income Statement and transformed it into a structured dataset for analysis
